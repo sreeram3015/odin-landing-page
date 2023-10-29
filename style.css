@@ -120,3 +120,26 @@ h4{
 p{
     margin: 15px;
 }
+
+/* Quote Section */
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 0 200px;
+    margin-top: 15px;
+}
+
+.quote p {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    padding: 15px;
+}
+
+.quote b {
+    padding-bottom: 20px;
+    padding-right: 10px;
+    text-align: right;
+}
